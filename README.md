@@ -4,7 +4,7 @@ A clean, animated HTML landing-page demo showcasing scroll-based effects, clip r
 Built using **HTML**, **TailwindCSS CDN**, and **lightweight JavaScript**.
 
 Live demo (GitHub Pages):  
-👉 https://itsAnji-Dev.github.io/Insta-slides-demo/
+👉https://itsAnji-Dev.github.io/Insta-slides-demo/index.html
 
 ---
 
